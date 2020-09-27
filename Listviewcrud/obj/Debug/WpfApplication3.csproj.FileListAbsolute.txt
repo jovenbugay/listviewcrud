@@ -1,0 +1,42 @@
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.pdb
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.g.cs
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.baml
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.exe
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.pdb
+F:\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+F:\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.exe
+F:\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.pdb
+F:\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe
+F:\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.pdb
+F:\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+F:\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.g.cs
+F:\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+F:\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+F:\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref
+F:\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.baml
+F:\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+F:\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+F:\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+C:\Users\Joven\Desktop\Object_Oriented_Programming_(2nd_Year_SY_2019)\Activity4\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+C:\Users\Joven\Desktop\Object_Oriented_Programming_(2nd_Year_SY_2019)\Activity4\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.exe
+C:\Users\Joven\Desktop\Object_Oriented_Programming_(2nd_Year_SY_2019)\Activity4\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.pdb
+C:\Users\Joven\Desktop\Object_Oriented_Programming_(2nd_Year_SY_2019)\Activity4\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe
+C:\Users\Joven\Desktop\Object_Oriented_Programming_(2nd_Year_SY_2019)\Activity4\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.pdb
+C:\Users\Joven\Desktop\Object_Oriented_Programming_(2nd_Year_SY_2019)\Activity4\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Joven\Desktop\Object_Oriented_Programming_(2nd_Year_SY_2019)\Activity4\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.g.cs
+C:\Users\Joven\Desktop\Object_Oriented_Programming_(2nd_Year_SY_2019)\Activity4\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+C:\Users\Joven\Desktop\Object_Oriented_Programming_(2nd_Year_SY_2019)\Activity4\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+C:\Users\Joven\Desktop\Object_Oriented_Programming_(2nd_Year_SY_2019)\Activity4\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref
+C:\Users\Joven\Desktop\Object_Oriented_Programming_(2nd_Year_SY_2019)\Activity4\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.baml
+C:\Users\Joven\Desktop\Object_Oriented_Programming_(2nd_Year_SY_2019)\Activity4\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+C:\Users\Joven\Desktop\Object_Oriented_Programming_(2nd_Year_SY_2019)\Activity4\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+C:\Users\Joven\Desktop\Object_Oriented_Programming_(2nd_Year_SY_2019)\Activity4\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
